@@ -1,5 +1,5 @@
 class Vector:#создание класса
-    def __init__(self, x, y):#создание двух элементов x и y
+    def __init__(self, x, y):#инициализация двух элементов x и y
         self.x = x
         self.y = y
     def calculate_module(self): #вычисление модулей
